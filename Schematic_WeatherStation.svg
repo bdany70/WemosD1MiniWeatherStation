@@ -1,0 +1,1431 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1169"
+   height="827.3"
+   viewBox="-10 -816.8 1169 827.3"
+   version="1.1"
+   id="svg1226"
+   sodipodi:docname="Schematic_WeatherStation.svg"
+   inkscape:version="1.0 (4035a4f, 2020-05-01)">
+  <metadata
+     id="metadata1232">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Sheet_1</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs1230" />
+  <sodipodi:namedview
+     inkscape:document-rotation="0"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1440"
+     inkscape:window-height="855"
+     id="namedview1228"
+     showgrid="false"
+     inkscape:zoom="4.5981641"
+     inkscape:cx="568.39565"
+     inkscape:cy="371.94583"
+     inkscape:window-x="1920"
+     inkscape:window-y="23"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1226" />
+  <title
+     id="title833">Sheet_1</title>
+  <style
+     type="text/css"
+     id="style835">
+path, polyline, polygon {stroke-linejoin:round;}
+rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges;}
+</style>
+  <g
+     inkscape:export-ydpi="96"
+     inkscape:export-xdpi="96"
+     id="g1680">
+    <g
+       c_origin="565,-445"
+       c_para="package`WEMOS D1 MINI`BOM_Manufacturer``BOM_Manufacturer Part`Wemos D1 mini`BOM_Supplier Part``BOM_Supplier``link``Contributor`Tobias Mayer`spicePre`U`spiceSymbolName`Wemos D1 Mini`"
+       c_partid="part_lib_gge04f59f0f69ac3077"
+       id="gge04f59f0f69ac3077"
+       locked="0"
+       c_shapetype="group"
+       c_etype="pinpart"
+       puuid="8dc7c6297b4a4402a69ed3a78a8d3949"
+       uuid="aef2b72b03f44938b65a1996360782e1"
+       convert_to_pcb="yes"
+       add_into_bom="yes">
+      <g
+         c_partid="part_annotation"
+         id="gge78"
+         c_shapetype="group">
+        <text
+           c_note="note_name"
+           x="554.03125"
+           y="-499"
+           fill="#000080"
+           font-family="Arial"
+           font-size="9.33333px"
+           font-weight=""
+           font-style=""
+           dominant-baseline=""
+           text-anchor="start"
+           id="text944">Wemos D1 Mini</text>
+      </g>
+      <g
+         c_partid="part_annotation"
+         id="gge80"
+         c_shapetype="group">
+        <text
+           c_note="note_pre"
+           x="554.03906"
+           y="-508.5"
+           fill="#000080"
+           font-family="Arial"
+           font-size="9.33333px"
+           font-weight=""
+           font-style=""
+           dominant-baseline=""
+           text-anchor="start"
+           id="text947">U1</text>
+      </g>
+      <g
+         c_partid="part_pin"
+         c_etype="pinpart"
+         c_show="show"
+         c_elec="0"
+         c_spicepin="1"
+         c_origin="615,-415"
+         id="gge83"
+         locked="0"
+         c_rotation="0">
+        <text
+           x="593"
+           y="-412"
+           font-family="Verdana"
+           font-size="9.33333px"
+           fill="#0000ff"
+           text-anchor="end"
+           c_pinname="5V"
+           id="text950">5V</text>
+        <text
+           x="600"
+           y="-416"
+           font-family="Verdana"
+           font-size="9.33333px"
+           fill="#0000ff"
+           text-anchor="start"
+           c_pinnumber="1"
+           id="text952">1</text>
+        <circle
+           c_pindot="true"
+           class="pindot"
+           cx="615"
+           cy="-415"
+           r="2"
+           fill="none"
+           stroke="none"
+           id="circle954" />
+        <path
+           d="M 615,-415 H 595"
+           fill="none"
+           stroke="#880000"
+           stroke-width="1"
+           id="path956" />
+        <circle
+           cx="598"
+           cy="-415"
+           r="3"
+           stroke="#880000"
+           fill="none"
+           stroke-width="1"
+           display="none"
+           id="circle958" />
+        <path
+           d="m 595,-418 -3,3 3,3"
+           fill="none"
+           stroke="#880000"
+           stroke-width="1"
+           display="none"
+           id="path960" />
+      </g>
+      <g
+         c_partid="part_pin"
+         c_etype="pinpart"
+         c_show="show"
+         c_elec="0"
+         c_spicepin="2"
+         c_origin="505,-415"
+         id="gge91"
+         locked="0"
+         c_rotation="180">
+        <text
+           x="527"
+           y="-412"
+           font-family="Verdana"
+           font-size="9.33333px"
+           fill="#0000ff"
+           text-anchor="start"
+           c_pinname="3V3"
+           id="text963">3V3</text>
+        <text
+           x="520"
+           y="-416"
+           font-family="Verdana"
+           font-size="9.33333px"
+           fill="#0000ff"
+           text-anchor="end"
+           c_pinnumber="16"
+           id="text965">16</text>
+        <circle
+           c_pindot="true"
+           class="pindot"
+           cx="505"
+           cy="-415"
+           r="2"
+           fill="none"
+           stroke="none"
+           id="circle967" />
+        <path
+           d="m 505,-415 h 20"
+           fill="none"
+           stroke="#880000"
+           stroke-width="1"
+           id="path969" />
+        <circle
+           cx="522"
+           cy="-415"
+           r="3"
+           stroke="#880000"
+           fill="none"
+           stroke-width="1"
+           display="none"
+           id="circle971" />
+        <path
+           d="m 525,-412 3,-3 -3,-3"
+           fill="none"
+           stroke="#880000"
+           stroke-width="1"
+           display="none"
+           id="path973" />
+      </g>
+      <g
+         c_partid="part_pin"
+         c_etype="pinpart"
+         c_show="show"
+         c_elec="0"
+         c_spicepin="3"
+         c_origin="615,-425"
+         id="gge99"
+         locked="0"
+         c_rotation="0">
+        <text
+           x="593"
+           y="-422"
+           font-family="Verdana"
+           font-size="9.33333px"
+           fill="#0000ff"
+           text-anchor="end"
+           c_pinname="GND"
+           id="text976">GND</text>
+        <text
+           x="600"
+           y="-426"
+           font-family="Verdana"
+           font-size="9.33333px"
+           fill="#0000ff"
+           text-anchor="start"
+           c_pinnumber="2"
+           id="text978">2</text>
+        <circle
+           c_pindot="true"
+           class="pindot"
+           cx="615"
+           cy="-425"
+           r="2"
+           fill="none"
+           stroke="none"
+           id="circle980" />
+        <path
+           d="M 615,-425 H 595"
+           fill="none"
+           stroke="#880000"
+           stroke-width="1"
+           id="path982" />
+        <circle
+           cx="598"
+           cy="-425"
+           r="3"
+           stroke="#880000"
+           fill="none"
+           stroke-width="1"
+           display="none"
+           id="circle984" />
+        <path
+           d="m 595,-428 -3,3 3,3"
+           fill="none"
+           stroke="#880000"
+           stroke-width="1"
+           display="none"
+           id="path986" />
+      </g>
+      <g
+         c_partid="part_pin"
+         c_etype="pinpart"
+         c_show="show"
+         c_elec="0"
+         c_spicepin="4"
+         c_origin="505,-485"
+         id="gge107"
+         locked="0"
+         c_rotation="180">
+        <text
+           x="527"
+           y="-482"
+           font-family="Verdana"
+           font-size="9.33333px"
+           fill="#0000ff"
+           text-anchor="start"
+           c_pinname="RST"
+           id="text989">RST</text>
+        <text
+           x="520"
+           y="-486"
+           font-family="Verdana"
+           font-size="9.33333px"
+           fill="#0000ff"
+           text-anchor="end"
+           c_pinnumber="9"
+           id="text991">9</text>
+        <circle
+           c_pindot="true"
+           class="pindot"
+           cx="505"
+           cy="-485"
+           r="2"
+           fill="none"
+           stroke="none"
+           id="circle993" />
+        <path
+           d="m 505,-485 h 20"
+           fill="none"
+           stroke="#880000"
+           stroke-width="1"
+           id="path995" />
+        <circle
+           cx="522"
+           cy="-485"
+           r="3"
+           stroke="#880000"
+           fill="none"
+           stroke-width="1"
+           display="none"
+           id="circle997" />
+        <path
+           d="m 525,-482 3,-3 -3,-3"
+           fill="none"
+           stroke="#880000"
+           stroke-width="1"
+           display="none"
+           id="path999" />
+      </g>
+      <g
+         c_partid="part_pin"
+         c_etype="pinpart"
+         c_show="show"
+         c_elec="0"
+         c_spicepin="5"
+         c_origin="615,-485"
+         id="gge115"
+         locked="0"
+         c_rotation="0">
+        <text
+           x="593"
+           y="-482"
+           font-family="Verdana"
+           font-size="9.33333px"
+           fill="#0000ff"
+           text-anchor="end"
+           c_pinname="TX"
+           id="text1002">TX</text>
+        <text
+           x="600"
+           y="-486"
+           font-family="Verdana"
+           font-size="9.33333px"
+           fill="#0000ff"
+           text-anchor="start"
+           c_pinnumber="7"
+           id="text1004">7</text>
+        <circle
+           c_pindot="true"
+           class="pindot"
+           cx="615"
+           cy="-485"
+           r="2"
+           fill="none"
+           stroke="none"
+           id="circle1006" />
+        <path
+           d="M 615,-485 H 595"
+           fill="none"
+           stroke="#880000"
+           stroke-width="1"
+           id="path1008" />
+        <circle
+           cx="598"
+           cy="-485"
+           r="3"
+           stroke="#880000"
+           fill="none"
+           stroke-width="1"
+           display="none"
+           id="circle1010" />
+        <path
+           d="m 595,-488 -3,3 3,3"
+           fill="none"
+           stroke="#880000"
+           stroke-width="1"
+           display="none"
+           id="path1012" />
+      </g>
+      <g
+         c_partid="part_pin"
+         c_etype="pinpart"
+         c_show="show"
+         c_elec="0"
+         c_spicepin="6"
+         c_origin="615,-475"
+         id="gge122"
+         locked="0"
+         c_rotation="0">
+        <text
+           x="593"
+           y="-472"
+           font-family="Verdana"
+           font-size="9.33333px"
+           fill="#0000ff"
+           text-anchor="end"
+           c_pinname="RX"
+           id="text1015">RX</text>
+        <text
+           x="600"
+           y="-476"
+           font-family="Verdana"
+           font-size="9.33333px"
+           fill="#0000ff"
+           text-anchor="start"
+           c_pinnumber="8"
+           id="text1017">8</text>
+        <circle
+           c_pindot="true"
+           class="pindot"
+           cx="615"
+           cy="-475"
+           r="2"
+           fill="none"
+           stroke="none"
+           id="circle1019" />
+        <path
+           d="M 615,-475 H 595"
+           fill="none"
+           stroke="#880000"
+           stroke-width="1"
+           id="path1021" />
+        <circle
+           cx="598"
+           cy="-475"
+           r="3"
+           stroke="#880000"
+           fill="none"
+           stroke-width="1"
+           display="none"
+           id="circle1023" />
+        <path
+           d="m 595,-478 -3,3 3,3"
+           fill="none"
+           stroke="#880000"
+           stroke-width="1"
+           display="none"
+           id="path1025" />
+      </g>
+      <g
+         c_partid="part_pin"
+         c_etype="pinpart"
+         c_show="show"
+         c_elec="0"
+         c_spicepin="7"
+         c_origin="505,-475"
+         id="gge130"
+         locked="0"
+         c_rotation="180">
+        <text
+           x="527"
+           y="-472"
+           font-family="Verdana"
+           font-size="9.33333px"
+           fill="#0000ff"
+           text-anchor="start"
+           c_pinname="A0"
+           id="text1028">A0</text>
+        <text
+           x="520"
+           y="-476"
+           font-family="Verdana"
+           font-size="9.33333px"
+           fill="#0000ff"
+           text-anchor="end"
+           c_pinnumber="10"
+           id="text1030">10</text>
+        <circle
+           c_pindot="true"
+           class="pindot"
+           cx="505"
+           cy="-475"
+           r="2"
+           fill="none"
+           stroke="none"
+           id="circle1032" />
+        <path
+           d="m 505,-475 h 20"
+           fill="none"
+           stroke="#880000"
+           stroke-width="1"
+           id="path1034" />
+        <circle
+           cx="522"
+           cy="-475"
+           r="3"
+           stroke="#880000"
+           fill="none"
+           stroke-width="1"
+           display="none"
+           id="circle1036" />
+        <path
+           d="m 525,-472 3,-3 -3,-3"
+           fill="none"
+           stroke="#880000"
+           stroke-width="1"
+           display="none"
+           id="path1038" />
+      </g>
+      <g
+         c_partid="part_pin"
+         c_etype="pinpart"
+         c_show="show"
+         c_elec="0"
+         c_spicepin="8"
+         c_origin="505,-465"
+         id="gge137"
+         locked="0"
+         c_rotation="180">
+        <text
+           x="527"
+           y="-462"
+           font-family="Verdana"
+           font-size="9.33333px"
+           fill="#0000ff"
+           text-anchor="start"
+           c_pinname="D0"
+           id="text1041">D0</text>
+        <text
+           x="520"
+           y="-466"
+           font-family="Verdana"
+           font-size="9.33333px"
+           fill="#0000ff"
+           text-anchor="end"
+           c_pinnumber="11"
+           id="text1043">11</text>
+        <circle
+           c_pindot="true"
+           class="pindot"
+           cx="505"
+           cy="-465"
+           r="2"
+           fill="none"
+           stroke="none"
+           id="circle1045" />
+        <path
+           d="m 505,-465 h 20"
+           fill="none"
+           stroke="#880000"
+           stroke-width="1"
+           id="path1047" />
+        <circle
+           cx="522"
+           cy="-465"
+           r="3"
+           stroke="#880000"
+           fill="none"
+           stroke-width="1"
+           display="none"
+           id="circle1049" />
+        <path
+           d="m 525,-462 3,-3 -3,-3"
+           fill="none"
+           stroke="#880000"
+           stroke-width="1"
+           display="none"
+           id="path1051" />
+      </g>
+      <g
+         c_partid="part_pin"
+         c_etype="pinpart"
+         c_show="show"
+         c_elec="0"
+         c_spicepin="9"
+         c_origin="615,-465"
+         id="gge144"
+         locked="0"
+         c_rotation="0">
+        <text
+           x="593"
+           y="-462"
+           font-family="Verdana"
+           font-size="9.33333px"
+           fill="#0000ff"
+           text-anchor="end"
+           c_pinname="D1/SCL"
+           id="text1054">D1/SCL</text>
+        <text
+           x="600"
+           y="-466"
+           font-family="Verdana"
+           font-size="9.33333px"
+           fill="#0000ff"
+           text-anchor="start"
+           c_pinnumber="6"
+           id="text1056">6</text>
+        <circle
+           c_pindot="true"
+           class="pindot"
+           cx="615"
+           cy="-465"
+           r="2"
+           fill="none"
+           stroke="none"
+           id="circle1058" />
+        <path
+           d="M 615,-465 H 595"
+           fill="none"
+           stroke="#880000"
+           stroke-width="1"
+           id="path1060" />
+        <circle
+           cx="598"
+           cy="-465"
+           r="3"
+           stroke="#880000"
+           fill="none"
+           stroke-width="1"
+           display="none"
+           id="circle1062" />
+        <path
+           d="m 595,-468 -3,3 3,3"
+           fill="none"
+           stroke="#880000"
+           stroke-width="1"
+           display="none"
+           id="path1064" />
+      </g>
+      <g
+         c_partid="part_pin"
+         c_etype="pinpart"
+         c_show="show"
+         c_elec="0"
+         c_spicepin="10"
+         c_origin="615,-455"
+         id="gge151"
+         locked="0"
+         c_rotation="0">
+        <text
+           x="593"
+           y="-452"
+           font-family="Verdana"
+           font-size="9.33333px"
+           fill="#0000ff"
+           text-anchor="end"
+           c_pinname="D2/SDA"
+           id="text1067">D2/SDA</text>
+        <text
+           x="600"
+           y="-456"
+           font-family="Verdana"
+           font-size="9.33333px"
+           fill="#0000ff"
+           text-anchor="start"
+           c_pinnumber="5"
+           id="text1069">5</text>
+        <circle
+           c_pindot="true"
+           class="pindot"
+           cx="615"
+           cy="-455"
+           r="2"
+           fill="none"
+           stroke="none"
+           id="circle1071" />
+        <path
+           d="M 615,-455 H 595"
+           fill="none"
+           stroke="#880000"
+           stroke-width="1"
+           id="path1073" />
+        <circle
+           cx="598"
+           cy="-455"
+           r="3"
+           stroke="#880000"
+           fill="none"
+           stroke-width="1"
+           display="none"
+           id="circle1075" />
+        <path
+           d="m 595,-458 -3,3 3,3"
+           fill="none"
+           stroke="#880000"
+           stroke-width="1"
+           display="none"
+           id="path1077" />
+      </g>
+      <g
+         c_partid="part_pin"
+         c_etype="pinpart"
+         c_show="show"
+         c_elec="0"
+         c_spicepin="11"
+         c_origin="615,-445"
+         id="gge158"
+         locked="0"
+         c_rotation="0">
+        <text
+           x="593"
+           y="-442"
+           font-family="Verdana"
+           font-size="9.33333px"
+           fill="#0000ff"
+           text-anchor="end"
+           c_pinname="D3"
+           id="text1080">D3</text>
+        <text
+           x="600"
+           y="-446"
+           font-family="Verdana"
+           font-size="9.33333px"
+           fill="#0000ff"
+           text-anchor="start"
+           c_pinnumber="4"
+           id="text1082">4</text>
+        <circle
+           c_pindot="true"
+           class="pindot"
+           cx="615"
+           cy="-445"
+           r="2"
+           fill="none"
+           stroke="none"
+           id="circle1084" />
+        <path
+           d="M 615,-445 H 595"
+           fill="none"
+           stroke="#880000"
+           stroke-width="1"
+           id="path1086" />
+        <circle
+           cx="598"
+           cy="-445"
+           r="3"
+           stroke="#880000"
+           fill="none"
+           stroke-width="1"
+           display="none"
+           id="circle1088" />
+        <path
+           d="m 595,-448 -3,3 3,3"
+           fill="none"
+           stroke="#880000"
+           stroke-width="1"
+           display="none"
+           id="path1090" />
+      </g>
+      <g
+         c_partid="part_pin"
+         c_etype="pinpart"
+         c_show="show"
+         c_elec="0"
+         c_spicepin="12"
+         c_origin="615,-435"
+         id="gge165"
+         locked="0"
+         c_rotation="0">
+        <text
+           x="593"
+           y="-432"
+           font-family="Verdana"
+           font-size="9.33333px"
+           fill="#0000ff"
+           text-anchor="end"
+           c_pinname="D4"
+           id="text1093">D4</text>
+        <text
+           x="600"
+           y="-436"
+           font-family="Verdana"
+           font-size="9.33333px"
+           fill="#0000ff"
+           text-anchor="start"
+           c_pinnumber="3"
+           id="text1095">3</text>
+        <circle
+           c_pindot="true"
+           class="pindot"
+           cx="615"
+           cy="-435"
+           r="2"
+           fill="none"
+           stroke="none"
+           id="circle1097" />
+        <path
+           d="M 615,-435 H 595"
+           fill="none"
+           stroke="#880000"
+           stroke-width="1"
+           id="path1099" />
+        <circle
+           cx="598"
+           cy="-435"
+           r="3"
+           stroke="#880000"
+           fill="none"
+           stroke-width="1"
+           display="none"
+           id="circle1101" />
+        <path
+           d="m 595,-438 -3,3 3,3"
+           fill="none"
+           stroke="#880000"
+           stroke-width="1"
+           display="none"
+           id="path1103" />
+      </g>
+      <g
+         c_partid="part_pin"
+         c_etype="pinpart"
+         c_show="show"
+         c_elec="0"
+         c_spicepin="13"
+         c_origin="505,-455"
+         id="gge172"
+         locked="0"
+         c_rotation="180">
+        <text
+           x="527"
+           y="-452"
+           font-family="Verdana"
+           font-size="9.33333px"
+           fill="#0000ff"
+           text-anchor="start"
+           c_pinname="D5"
+           id="text1106">D5</text>
+        <text
+           x="520"
+           y="-456"
+           font-family="Verdana"
+           font-size="9.33333px"
+           fill="#0000ff"
+           text-anchor="end"
+           c_pinnumber="12"
+           id="text1108">12</text>
+        <circle
+           c_pindot="true"
+           class="pindot"
+           cx="505"
+           cy="-455"
+           r="2"
+           fill="none"
+           stroke="none"
+           id="circle1110" />
+        <path
+           d="m 505,-455 h 20"
+           fill="none"
+           stroke="#880000"
+           stroke-width="1"
+           id="path1112" />
+        <circle
+           cx="522"
+           cy="-455"
+           r="3"
+           stroke="#880000"
+           fill="none"
+           stroke-width="1"
+           display="none"
+           id="circle1114" />
+        <path
+           d="m 525,-452 3,-3 -3,-3"
+           fill="none"
+           stroke="#880000"
+           stroke-width="1"
+           display="none"
+           id="path1116" />
+      </g>
+      <g
+         c_partid="part_pin"
+         c_etype="pinpart"
+         c_show="show"
+         c_elec="0"
+         c_spicepin="14"
+         c_origin="505,-445"
+         id="gge179"
+         locked="0"
+         c_rotation="180">
+        <text
+           x="527"
+           y="-442"
+           font-family="Verdana"
+           font-size="9.33333px"
+           fill="#0000ff"
+           text-anchor="start"
+           c_pinname="D6"
+           id="text1119">D6</text>
+        <text
+           x="520"
+           y="-446"
+           font-family="Verdana"
+           font-size="9.33333px"
+           fill="#0000ff"
+           text-anchor="end"
+           c_pinnumber="13"
+           id="text1121">13</text>
+        <circle
+           c_pindot="true"
+           class="pindot"
+           cx="505"
+           cy="-445"
+           r="2"
+           fill="none"
+           stroke="none"
+           id="circle1123" />
+        <path
+           d="m 505,-445 h 20"
+           fill="none"
+           stroke="#880000"
+           stroke-width="1"
+           id="path1125" />
+        <circle
+           cx="522"
+           cy="-445"
+           r="3"
+           stroke="#880000"
+           fill="none"
+           stroke-width="1"
+           display="none"
+           id="circle1127" />
+        <path
+           d="m 525,-442 3,-3 -3,-3"
+           fill="none"
+           stroke="#880000"
+           stroke-width="1"
+           display="none"
+           id="path1129" />
+      </g>
+      <g
+         c_partid="part_pin"
+         c_etype="pinpart"
+         c_show="show"
+         c_elec="0"
+         c_spicepin="15"
+         c_origin="505,-435"
+         id="gge186"
+         locked="0"
+         c_rotation="180">
+        <text
+           x="527"
+           y="-432"
+           font-family="Verdana"
+           font-size="9.33333px"
+           fill="#0000ff"
+           text-anchor="start"
+           c_pinname="D7"
+           id="text1132">D7</text>
+        <text
+           x="520"
+           y="-436"
+           font-family="Verdana"
+           font-size="9.33333px"
+           fill="#0000ff"
+           text-anchor="end"
+           c_pinnumber="14"
+           id="text1134">14</text>
+        <circle
+           c_pindot="true"
+           class="pindot"
+           cx="505"
+           cy="-435"
+           r="2"
+           fill="none"
+           stroke="none"
+           id="circle1136" />
+        <path
+           d="m 505,-435 h 20"
+           fill="none"
+           stroke="#880000"
+           stroke-width="1"
+           id="path1138" />
+        <circle
+           cx="522"
+           cy="-435"
+           r="3"
+           stroke="#880000"
+           fill="none"
+           stroke-width="1"
+           display="none"
+           id="circle1140" />
+        <path
+           d="m 525,-432 3,-3 -3,-3"
+           fill="none"
+           stroke="#880000"
+           stroke-width="1"
+           display="none"
+           id="path1142" />
+      </g>
+      <g
+         c_partid="part_pin"
+         c_etype="pinpart"
+         c_show="show"
+         c_elec="0"
+         c_spicepin="16"
+         c_origin="505,-425"
+         id="gge193"
+         locked="0"
+         c_rotation="180">
+        <text
+           x="527"
+           y="-422"
+           font-family="Verdana"
+           font-size="9.33333px"
+           fill="#0000ff"
+           text-anchor="start"
+           c_pinname="D8"
+           id="text1145">D8</text>
+        <text
+           x="520"
+           y="-426"
+           font-family="Verdana"
+           font-size="9.33333px"
+           fill="#0000ff"
+           text-anchor="end"
+           c_pinnumber="15"
+           id="text1147">15</text>
+        <circle
+           c_pindot="true"
+           class="pindot"
+           cx="505"
+           cy="-425"
+           r="2"
+           fill="none"
+           stroke="none"
+           id="circle1149" />
+        <path
+           d="m 505,-425 h 20"
+           fill="none"
+           stroke="#880000"
+           stroke-width="1"
+           id="path1151" />
+        <circle
+           cx="522"
+           cy="-425"
+           r="3"
+           stroke="#880000"
+           fill="none"
+           stroke-width="1"
+           display="none"
+           id="circle1153" />
+        <path
+           d="m 525,-422 3,-3 -3,-3"
+           fill="none"
+           stroke="#880000"
+           stroke-width="1"
+           display="none"
+           id="path1155" />
+      </g>
+      <rect
+         id="gge200"
+         locked="0"
+         c_etype=""
+         x="525"
+         y="-495"
+         width="70"
+         height="90"
+         stroke="#000000"
+         stroke-width="1"
+         fill="none" />
+    </g>
+    <g
+       c_origin="675,-485"
+       c_para="package`NONE`BOM_Manufacturer Part`MPU6050`Contributor`tomis4cansat`spicePre`U`spiceSymbolName`BME280`"
+       c_partid="part_lib_ggedb15d30927d75160"
+       id="ggedb15d30927d75160"
+       locked="0"
+       c_shapetype="group"
+       c_etype="pinpart"
+       puuid=""
+       uuid="b4bb2e13834c4a8788880c68f3484568"
+       convert_to_pcb="yes"
+       add_into_bom="yes">
+      <g
+         c_partid="part_annotation"
+         id="gge380"
+         c_shapetype="group">
+        <text
+           c_note="note_name"
+           x="693.03125"
+           y="-498.5"
+           fill="#000080"
+           font-family="Arial"
+           font-size="9.33333px"
+           font-weight=""
+           font-style=""
+           dominant-baseline=""
+           text-anchor="start"
+           id="text1160">BME280</text>
+      </g>
+      <g
+         c_partid="part_annotation"
+         id="gge382"
+         c_shapetype="group">
+        <text
+           c_note="note_pre"
+           x="693.03125"
+           y="-507.5"
+           fill="#000080"
+           font-family="Arial"
+           font-size="9.33333px"
+           font-weight=""
+           font-style=""
+           dominant-baseline=""
+           text-anchor="start"
+           id="text1163">U2</text>
+      </g>
+      <rect
+         id="gge384"
+         locked="0"
+         c_etype=""
+         x="694"
+         y="-492.79999"
+         width="31"
+         height="47.799999"
+         stroke="#000000"
+         stroke-width="1"
+         fill="none" />
+      <g
+         c_partid="part_pin"
+         c_etype="pinpart"
+         c_show="show"
+         c_elec="0"
+         c_spicepin="1"
+         c_origin="675,-485"
+         id="gge385"
+         locked="0"
+         c_rotation="180">
+        <text
+           x="697"
+           y="-482"
+           font-family="Verdana"
+           font-size="9.33333px"
+           fill="#0000ff"
+           text-anchor="start"
+           c_pinname="GND"
+           id="text1167">GND</text>
+        <text
+           x="690"
+           y="-486"
+           font-family="Verdana"
+           font-size="9.33333px"
+           fill="#0000ff"
+           text-anchor="end"
+           c_pinnumber="1"
+           id="text1169">1</text>
+        <circle
+           c_pindot="true"
+           class="pindot"
+           cx="675"
+           cy="-485"
+           r="2"
+           fill="none"
+           stroke="none"
+           id="circle1171" />
+        <path
+           d="m 675,-485 h 20"
+           fill="none"
+           stroke="#880000"
+           stroke-width="1"
+           id="path1173" />
+        <circle
+           cx="692"
+           cy="-485"
+           r="3"
+           stroke="#880000"
+           fill="none"
+           stroke-width="1"
+           display="none"
+           id="circle1175" />
+        <path
+           d="m 695,-482 3,-3 -3,-3"
+           fill="none"
+           stroke="#880000"
+           stroke-width="1"
+           display="none"
+           id="path1177" />
+      </g>
+      <g
+         c_partid="part_pin"
+         c_etype="pinpart"
+         c_show="show"
+         c_elec="0"
+         c_spicepin="2"
+         c_origin="675,-475"
+         id="gge392"
+         locked="0"
+         c_rotation="180">
+        <text
+           x="697"
+           y="-472"
+           font-family="Verdana"
+           font-size="9.33333px"
+           fill="#0000ff"
+           text-anchor="start"
+           c_pinname="3.3V"
+           id="text1180">3.3V</text>
+        <text
+           x="690"
+           y="-476"
+           font-family="Verdana"
+           font-size="9.33333px"
+           fill="#0000ff"
+           text-anchor="end"
+           c_pinnumber="2"
+           id="text1182">2</text>
+        <circle
+           c_pindot="true"
+           class="pindot"
+           cx="675"
+           cy="-475"
+           r="2"
+           fill="none"
+           stroke="none"
+           id="circle1184" />
+        <path
+           d="m 675,-475 h 20"
+           fill="none"
+           stroke="#880000"
+           stroke-width="1"
+           id="path1186" />
+        <circle
+           cx="692"
+           cy="-475"
+           r="3"
+           stroke="#880000"
+           fill="none"
+           stroke-width="1"
+           display="none"
+           id="circle1188" />
+        <path
+           d="m 695,-472 3,-3 -3,-3"
+           fill="none"
+           stroke="#880000"
+           stroke-width="1"
+           display="none"
+           id="path1190" />
+      </g>
+      <g
+         c_partid="part_pin"
+         c_etype="pinpart"
+         c_show="show"
+         c_elec="0"
+         c_spicepin="3"
+         c_origin="675,-465"
+         id="gge399"
+         locked="0"
+         c_rotation="180">
+        <text
+           x="697"
+           y="-462"
+           font-family="Verdana"
+           font-size="9.33333px"
+           fill="#0000ff"
+           text-anchor="start"
+           c_pinname="SDA"
+           id="text1193">SDA</text>
+        <text
+           x="690"
+           y="-466"
+           font-family="Verdana"
+           font-size="9.33333px"
+           fill="#0000ff"
+           text-anchor="end"
+           c_pinnumber="3"
+           id="text1195">3</text>
+        <circle
+           c_pindot="true"
+           class="pindot"
+           cx="675"
+           cy="-465"
+           r="2"
+           fill="none"
+           stroke="none"
+           id="circle1197" />
+        <path
+           d="m 675,-465 h 20"
+           fill="none"
+           stroke="#880000"
+           stroke-width="1"
+           id="path1199" />
+        <circle
+           cx="692"
+           cy="-465"
+           r="3"
+           stroke="#880000"
+           fill="none"
+           stroke-width="1"
+           display="none"
+           id="circle1201" />
+        <path
+           d="m 695,-462 3,-3 -3,-3"
+           fill="none"
+           stroke="#880000"
+           stroke-width="1"
+           display="none"
+           id="path1203" />
+      </g>
+      <g
+         c_partid="part_pin"
+         c_etype="pinpart"
+         c_show="show"
+         c_elec="0"
+         c_spicepin="4"
+         c_origin="675,-455"
+         id="gge406"
+         locked="0"
+         c_rotation="180">
+        <text
+           x="697"
+           y="-452"
+           font-family="Verdana"
+           font-size="9.33333px"
+           fill="#0000ff"
+           text-anchor="start"
+           c_pinname="SCL"
+           id="text1206">SCL</text>
+        <text
+           x="690"
+           y="-456"
+           font-family="Verdana"
+           font-size="9.33333px"
+           fill="#0000ff"
+           text-anchor="end"
+           c_pinnumber="4"
+           id="text1208">4</text>
+        <circle
+           c_pindot="true"
+           class="pindot"
+           cx="675"
+           cy="-455"
+           r="2"
+           fill="none"
+           stroke="none"
+           id="circle1210" />
+        <path
+           d="m 675,-455 h 20"
+           fill="none"
+           stroke="#880000"
+           stroke-width="1"
+           id="path1212" />
+        <circle
+           cx="692"
+           cy="-455"
+           r="3"
+           stroke="#880000"
+           fill="none"
+           stroke-width="1"
+           display="none"
+           id="circle1214" />
+        <path
+           d="m 695,-452 3,-3 -3,-3"
+           fill="none"
+           stroke="#880000"
+           stroke-width="1"
+           display="none"
+           id="path1216" />
+      </g>
+    </g>
+    <polyline
+       c_etype="wire"
+       c_shapetype="line"
+       points="615 -465 645 -465 645 -455 675 -455"
+       stroke="#008800"
+       id="gge450"
+       locked="0"
+       stroke-width="1"
+       fill="none"
+       stroke-linecap="round" />
+    <polyline
+       c_etype="wire"
+       c_shapetype="line"
+       points="615 -455 630 -455 630 -475 660 -475 660 -465 675 -465"
+       stroke="#ffff00"
+       id="gge451"
+       locked="0"
+       stroke-width="1"
+       fill="none"
+       stroke-linecap="round" />
+    <polyline
+       c_etype="wire"
+       c_shapetype="line"
+       points="675 -485 650 -485 650 -425 615 -425"
+       stroke="#000000"
+       id="gge452"
+       locked="0"
+       stroke-width="1"
+       fill="none"
+       stroke-linecap="round" />
+    <polyline
+       c_etype="wire"
+       c_shapetype="line"
+       points="505 -415 490 -415 490 -375 670 -375 670 -475 675 -475"
+       stroke="#ff0000"
+       id="gge453"
+       locked="0"
+       stroke-width="1"
+       fill="none"
+       stroke-linecap="round" />
+    <polyline
+       c_etype="wire"
+       c_shapetype="line"
+       points="505 -485 490 -485 490 -465 505 -465"
+       stroke="#0000ff"
+       id="gge455"
+       locked="0"
+       stroke-width="1"
+       fill="none"
+       stroke-linecap="round" />
+  </g>
+</svg>
