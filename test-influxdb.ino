@@ -51,6 +51,8 @@ Point sensor(SENSOR_NAME);
 BME280I2C bme;    // Default : forced mode, standby time = 1000 ms
                   // Oversampling = pressure ×1, temperature ×1, humidity ×1, filter off,
 
+const int sleepTimeS = 300;
+
 void setup() {
   Serial.begin(SERIAL_BAUD);
 
@@ -61,13 +63,11 @@ void setup() {
   influxDbSetup();
 
   bmeSetup();
+
+  readSensorAndWriteInfluxdb();
 }
 
-void loop() {
-  // Store measured value into point
-  sensor.clearFields();
-  // Report RSSI of currently connected network
-
+void readSensorAndWriteInfluxdb() {
   float temp(NAN), hum(NAN), pres(NAN);
   
   BME280::TempUnit tempUnit(BME280::TempUnit_Celsius);
@@ -75,6 +75,8 @@ void loop() {
   
   bme.read(pres, temp, hum, tempUnit, presUnit);
 
+  // Store measured value into point
+  sensor.clearFields();
   sensor.addField("temperature", temp);
   sensor.addField("preasure", pres);
   sensor.addField("humidity", hum);
@@ -91,9 +93,10 @@ void loop() {
     Serial.println(client.getLastErrorMessage());
   }
 
-  //Wait 10s
-  Serial.println("Wait 10s");
-  delay(10000);
+  ESP.deepSleep(sleepTimeS * 1000000);
+}
+
+void loop() {
 }
 
 void wiFiSetup() {
