@@ -26,12 +26,12 @@ ESP8266WiFiMulti wifiMulti;
 
 
 // WiFi AP SSID
-#define WIFI_SSID "TIM-46822155"
+#define WIFI_SSID "FRITZ!Box 7590 LT"
 // WiFi password
-#define WIFI_PASSWORD "gSQ2Ec7j5c56f8t2"
+#define WIFI_PASSWORD "01224925725429617791"
 
 // InfluxDB  server url. Don't use localhost, always server name or ip address.
-#define INFLUXDB_URL "http://myserver.local:8086"
+#define INFLUXDB_URL "http://myserver:8086"
 // InfluxDB v1 database name 
 #define INFLUXDB_DB_NAME "testweathersensor"
 #define INFLUXDB_USER "testweathersensor"
